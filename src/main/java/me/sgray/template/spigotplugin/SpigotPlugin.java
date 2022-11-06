@@ -5,7 +5,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 public class SpigotPlugin extends JavaPlugin {
     @Override
     public void onDisable() {
-        // Don't log disabling, Spigot does that for you automatically!
+        // Don't log disabling, Spigot does that for you automatically!tttttttttttt
     }
 
     @Override
